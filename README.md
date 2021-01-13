@@ -1,6 +1,6 @@
 # Programming Exercises C
 
-This is a repository containing programming exercises I solved during my dual studies at the [https://www.dhge.de/](DHGE Gera) in Germany.
+This is a repository containing programming exercises I solved during my dual studies at the [DHGE Gera](https://www.dhge.de/) in Germany.
 
 ## Dual study?
 Because some countries may not know this type of studying: <br>
