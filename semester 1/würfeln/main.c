@@ -17,6 +17,6 @@ int main(int argc, const char *argv[])
         printf("%3d. Wurf: %d\n", tries, currentNumber);
     } while(!((lastNumber == 6) && (currentNumber == 6)));
 
-    printf("\n Du hast nach %d Versuchen zwei 6er hintereinander gewürfelt!\n", tries);
+    printf("\n Du hast nach %d Versuchen zwei 6er hintereinander gewÃ¼rfelt!\n", tries);
     return 0;
 }
